@@ -745,8 +745,7 @@ body.inside #page #wrapper #join-our-community .com-wrap .com-item {
 }
 
 #coins .blocks #bytecoin {
-	color: #fff;
-	background-color: #ff4f26;
+	background:url(../img/coin-bcn.png) no-repeat center center;
 }
 
 #coins .blocks #bitmonero:after {
