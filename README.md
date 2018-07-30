@@ -1,4 +1,4 @@
-# Website
+# MEANcoin-Website
 Website for MEANcoin CryptoNote based cryptocurrency.
 
 ### Installation
